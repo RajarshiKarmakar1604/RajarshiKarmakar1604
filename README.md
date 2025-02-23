@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Rajarshi Karmakr
 - 👀 I’m interested in building innovative projects
-- 🌱 I’m currently learning git, c, Linux
 - 💞️ I’m looking to collaborate on Python Related projects
-- 📫 Can reach me through Instagram 
+- 📫 Can reach me through Instagram
+- 🌱 Profiles under construction:(
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... --->
